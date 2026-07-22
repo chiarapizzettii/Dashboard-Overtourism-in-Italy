@@ -17,11 +17,12 @@ The three files work together and the app is run via `runApp()` from the project
  
 - `ProvCM01012026_g_WGS84.shp/.dbf/.shx/.prj` – Shapefile of Italian province boundaries (WGS84 projection).
 - `final dataset.xlsx` – Dataset with overtourism indicators by province.
-- 
+  
 ## How to run the app
  
 
 `library(shiny)`
+
 `runApp()`
  
 Make sure all files (\`global.R\`, \`server.R\`, \`ui.R\`, shapefile and dataset) are in the same folder.
