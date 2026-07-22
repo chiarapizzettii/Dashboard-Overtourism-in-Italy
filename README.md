@@ -20,9 +20,7 @@ The three files work together and the app is run via `runApp()` from the project
   
 ## How to run the app
  
-
-`library(shiny)`
-
-`runApp()`
+- `library(shiny)`
+- `runApp()`
  
 Make sure all files (\`global.R\`, \`server.R\`, \`ui.R\`, shapefile and dataset) are in the same folder.
