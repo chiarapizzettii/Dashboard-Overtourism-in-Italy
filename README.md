@@ -1,6 +1,7 @@
 # Overtourism in Italy
  
 Interactive **R Shiny** dashboard to visualize overtourism at the province level in Italy.
+
 https://chiarapizzetti.shinyapps.io/Overtourism_Italy/
  
 ## App structure (Shiny)
@@ -19,9 +20,8 @@ The three files work together and the app is run via `runApp()` from the project
 - 
 ## How to run the app
  
-\`\`\`r
-library(shiny)
-runApp()
-\`\`\`
+
+`library(shiny)`
+`runApp()`
  
 Make sure all files (\`global.R\`, \`server.R\`, \`ui.R\`, shapefile and dataset) are in the same folder.
