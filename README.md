@@ -2,7 +2,7 @@
  
 Interactive **R Shiny** dashboard to visualize overtourism at the province level in Italy.
 
-https://chiarapizzetti.shinyapps.io/Overtourism_Italy/
+📊 Interactive Dashboard: https://chiarapizzetti.shinyapps.io/Overtourism_Italy/
  
 ## App structure (Shiny)
  
